@@ -1,6 +1,6 @@
 # Practice-Repo
 
-Welcome to Intro to GitHub! :frog:
+Welcome to Intro to GitHub! :frog::frog::frog:
 
 ## How to run the practice.py script
 1. Run  `pip install -r requirements.txt`
